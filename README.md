@@ -4,4 +4,4 @@ Run as a swarm stack;
 
 Running the project:
 
-      docker stack deploy -c docker-compose.yml redis
+      docker stack deploy -c docker-stack.yml redis
